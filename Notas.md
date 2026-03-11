@@ -38,3 +38,24 @@
 - 1940 e 1944 (No meio da Segunda Guerra Mundial)
 - Países como Alemanha Ocidental e URSS "só existem" entre 1947 e 1991 (Guerra Fria)
 - As Olimpíadas de 2020 ocorreram em 2021 devido à pandemia
+
+
+## 17 Paralimpíadas de verão entre 1960 e 2024
+
+1. 1960 (Roma, Itália)
+2. 1964 (Tóquio, Japão)
+3. 1968 (Tel Aviv, Israel) *
+4. 1972 (Heidelberg, Alemanha Ocidental - atual Alemanha) *
+5. 1976 (Toronto, Canadá) *
+6. 1980 (Arnhem, Países Baixos) *
+7. 1984 (Stoke Mandeville, Reino Unido e Nova Iorque, EUA) *
+8. 1988 (Seul, Coreia do Sul)
+9. 1992 (Barcelona, Espanha)
+10. 1996 (Atlanta, EUA)
+11. 2000 (Sydney, Austrália)
+12. 2004 (Atenas, Grécia)
+13. 2008 (Pequim, China)
+14. 2012 (Londres, Reino Unido)
+15. 2016 (Rio de Janeiro, Brasil)
+16. 2020 (Tóquio, Japão)
+17. 2024 (Paris, França)
