@@ -27,13 +27,12 @@ Com o intuito de observar mais a fundo o desempenho das nações em competiçõe
 
 - Arquivos estruturados (csv):
   CSV individuais para cada ciclo olímpico e paralímpico, contendo a contagem oficial de medalhas.
-  CSV com dados gerais sobre atletas que participaram de olimpíadas.
-
+  Dataset Kaggle: Utilização do arquivo estruturado athlete_events.csv proveniente do repositório "120 years of Olympic history: athletes    and results". Este arquivo fornece a base histórica detalhada de atletas e resultados de 1896 a 2016.
 ## Base de Dados:
 - Dados esportivos:
   Histórico de medalhas por ano: país e suas respectivas medalhas recebidas da olimpíada do ano.
   Histórico de medalhas geral: país e a quantidade total de medalhas adquiridas em todas as olimpíadas.
-  Atletas: dados gerais (nome, gênero, idade, peso, altura, time, esporte, cidade, medalha) sobre todos os atletas que participaram das olimpíadas entre 1896-2016.
+  Atletas (Kaggle/Curadoria própria): dados gerais (nome, gênero, idade, peso, altura, time, esporte, cidade, medalha) sobre todos os atletas que participaram das olimpíadas entre 1896-2016.
 - Dados socioeconômicos:
   PIB mundial.
   IDH mundial.
