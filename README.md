@@ -17,7 +17,7 @@
 
 
 ## Sobre conjunto de dados:
-Com o intuito de observar mais a fundo o desempenho das nações em competições esportivas, no caso os Jogos Olímpicos e Paralímpicos, foi analisado no âmbito esportivo edições das Olimpíadas (1896-2024) e Paralimpíadas (1960-2024), e no âmbito socioeconômico usando o PIB e o IDH. Com esses dados é previsto observar um reflexo não apenas do talento individual, mas o impacto que o investimento e infraestrutura pode causar no desempenho de uma nação. Compreender como fatores socioeconômicos influenciam esse desempenho é essencial para entender as disparidades globais no esporte e na inclusão social, visto que tambem analisamos as Paralimpíadas, que denuncia fortemente a relação de um pais com os investimentos esportivos e sociais.
+Com o intuito de observar mais a fundo o desempenho das nações em competições esportivas, no caso os Jogos Olímpicos e Paralímpicos, foi analisado no âmbito esportivo edições das Olimpíadas e Paralimpíadas (1960-2024), e no âmbito socioeconômico usando o PIB e o IDH. Com esses dados é previsto observar um reflexo não apenas do talento individual, mas o impacto que o investimento e infraestrutura pode causar no desempenho de uma nação. Compreender como fatores socioeconômicos influenciam esse desempenho é essencial para entender as disparidades globais no esporte e na inclusão social, visto que tambem analisamos as Paralimpíadas, que denuncia fortemente a relação de um pais com os investimentos esportivos e sociais.
 
 
 ## Processo de coleta de dados:
