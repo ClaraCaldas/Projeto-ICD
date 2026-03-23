@@ -44,7 +44,7 @@ Com o intuito de observar mais a fundo o desempenho das nações em competiçõe
   
   Histórico de medalhas geral: país e a quantidade total de medalhas adquiridas em todas as olimpíadas.
   
-  Atletas (Kaggle/Curadoria própria): dados gerais (nome, gênero, idade, peso, altura, time, esporte, cidade, medalha) sobre todos os atletas que participaram das olimpíadas entre 1896-2016.
+  Atletas (Kaggle): dados gerais (nome, gênero, idade, peso, altura, time, esporte, cidade, medalha) sobre todos os atletas que participaram das olimpíadas entre 1896-2016.
 
   
 - Dados socioeconômicos:
