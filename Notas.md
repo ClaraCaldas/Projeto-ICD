@@ -59,3 +59,79 @@
 15. 2016 (Rio de Janeiro, Brasil)
 16. 2020 (Tóquio, Japão)
 17. 2024 (Paris, França)
+
+## Todos os esportes olímpicos de verão (47)
+
+- Atletismo
+- Badminton
+- Basquete
+- Basquete 3x3
+- Beisebol/Softbol
+- Boxe
+- Breaking (2024 apenas)
+- Canoagem de Velocidade
+- Canoagem Slalom
+- Ciclismo BMX Freestyle
+- Ciclismo BMX Racing
+- Ciclismo de Estrada
+- Ciclismo de Pista
+- Ciclismo Mountain Bike
+- Escalada (2020 e 2024)
+- Esgrima
+- Futebol
+- Ginástica Artística
+- Ginástica de Trampolim
+- Ginástica Rítmica
+- Golfe (1900-1904 / 2016-2024)
+- Handebol
+- Hipismo
+- Hóquei sobre Grama
+- Judô
+- Karatê (2020 apenas)
+- Levantamento de Peso
+- Luta (Wrestling)
+- Maratona Aquática
+- Nado Artístico
+- Natação
+- Pentatlo Moderno
+- Polo Aquático
+- Remo
+- Rugby Union/Sevens
+- Saltos Ornamentais
+- Skate (2020 - 2024)
+- Surfe (2020 - 2024)
+- Taekwondo
+- Tênis
+- Tênis de Mesa
+- Tiro Esportivo
+- Tiro com Arco
+- Triatlo
+- Vela
+- Vôlei
+- Vôlei de Praia
+
+## Todos os esportes paralímpicos de verão (23)
+
+- Atletismo (Para Athletics)
+- Badminton (Para Badminton)
+- Basquetebol em Cadeira de Rodas (Wheelchair Basketball)
+- Bocha (Boccia)
+- Canoagem (Para Canoe)
+- Ciclismo de Estrada (Para Cycling Road)
+- Ciclismo de Pista (Para Cycling Track)
+- Esgrima em Cadeira de Rodas (Wheelchair Fencing)
+- Futebol de Cegos (Blind Football)
+- Goalball
+- Halterofilismo (Para Powerlifting)
+- Hipismo (Para Equestrian)
+- Judô (Para Judo)
+- Natação (Para Swimming)
+- Remo (Para Rowing)
+- Rugby em Cadeira de Rodas (Wheelchair Rugby)
+- Taekwondo (Para Taekwondo)
+- Tênis de Mesa (Para Table Tennis)
+- Tênis em Cadeira de Rodas (Wheelchair Tennis)
+- Tiro com Arco (Para Archery)
+- Tiro Esportivo (Shooting Para Sport)
+- Triatlo (Para Triathlon)
+- Vôlei Sentado (Sitting Volleyball)
