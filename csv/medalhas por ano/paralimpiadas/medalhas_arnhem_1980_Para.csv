@@ -1,0 +1,41 @@
+﻿Ordem,País,CPN,Ouro,Prata,Bronze,Total
+1,United States of America,USA,75,66,54,195
+2,Poland,POL,75,50,52,177
+3,West Germany,FRG,68,48,46,162
+4,Canada,CAN,64,35,31,130
+5,Great Britain,GBR,47,32,21,100
+6,Netherlands,NED,33,31,36,100
+7,Sweden,SWE,31,36,24,91
+8,France,FRA,28,26,31,85
+9,Mexico,MEX,20,16,6,42
+10,Norway,NOR,15,13,8,36
+11,Austria,AUT,14,23,8,45
+12,Israel,ISR,13,18,15,46
+13,Belgium,BEL,13,12,17,42
+14,Australia,AUS,12,21,22,55
+15,Switzerland,SUI,9,10,10,29
+16,Japan,JPN,9,10,7,26
+17,Finland,FIN,8,19,13,40
+18,Jamaica,JAM,7,7,5,19
+19,New Zealand,NZL,7,6,6,19
+20,Italy,ITA,6,5,9,20
+21,Denmark,DEN,6,4,7,17
+22,Egypt,EGY,4,7,3,14
+23,Yugoslavia,YUG,4,5,9,18
+24,Argentina,ARG,4,5,6,15
+25,Ireland,IRL,4,2,11,17
+26,Republic of Korea,KOR,2,2,1,5
+26,Kuwait,KUW,2,2,1,5
+27,Indonesia,INA,2,0,4,6
+28,Spain,ESP,1,13,9,23
+29,Kenya,KEN,1,2,0,3
+30,Colombia,COL,1,0,1,2
+30,Iceland,ISL,1,0,1,2
+31,Sudan,SUD,1,0,0,1
+32,Zimbabwe,ZIM,0,8,4,12
+33,Bahamas,BAH,0,1,2,3
+33,"Hong Kong, China",HKG,0,1,2,3
+34,Czechoslovakia,TCH,0,1,1,2
+35,Greece,GRE,0,0,1,1
+35,Luxembourg,LUX,0,0,1,1
+35,Malta,MLT,0,0,1,1

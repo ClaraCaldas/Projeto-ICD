@@ -1,0 +1,61 @@
+﻿Ordem,País,CPN,Ouro,Prata,Bronze,Total
+1,United States of America,USA,46,46,65,157
+2,Australia,AUS,42,37,27,106
+3,Germany,GER,40,58,51,149
+4,Great Britain,GBR,39,42,41,122
+5,Spain,ESP,39,31,36,106
+6,France,FRA,35,29,31,95
+7,Canada,CAN,24,21,24,69
+8,Netherlands,NED,17,11,17,45
+9,People's Republic of China,CHN,16,13,10,39
+10,Japan,JPN,14,10,13,37
+11,Poland,POL,13,14,8,35
+12,Republic of Korea,KOR,13,2,15,30
+13,Sweden,SWE,12,14,11,37
+14,Italy,ITA,11,20,14,45
+15,South Africa,RSA,10,8,10,28
+16,Russian Federation,RUS,9,7,11,27
+17,Norway,NOR,9,7,4,20
+18,Switzerland,SUI,9,6,6,21
+19,New Zealand,NZL,9,6,3,18
+20,Islamic Republic of Iran,IRI,9,5,3,17
+21,Egypt,EGY,8,11,11,30
+22,Belgium,BEL,8,10,7,25
+23,Cuba,CUB,8,3,0,11
+24,Denmark,DEN,7,17,17,41
+25,Austria,AUT,6,6,10,22
+26,Portugal,POR,6,4,4,14
+27,"Hong Kong, China",HKG,5,5,5,15
+28,Iceland,ISL,5,4,5,14
+29,Hungary,HUN,5,2,3,10
+30,Finland,FIN,4,5,4,13
+31,Mexico,MEX,3,5,4,12
+32,Estonia,EST,3,4,2,9
+33,Belarus,BLR,3,3,7,13
+34,Lithuania,LTU,3,2,6,11
+35,Nigeria,NGR,3,2,3,8
+36,Czechia,CZE,2,7,1,10
+37,Brazil,BRA,2,6,13,21
+38,Argentina,ARG,2,5,2,9
+39,Slovakia,SVK,2,4,5,11
+40,Algeria,ALG,2,2,3,7
+41,Yugoslavia,YUG,2,2,0,4
+42,Côte d'Ivoire,CIV,2,0,0,2
+42,Panama,PAN,2,0,0,2
+43,Ukraine,UKR,1,4,2,7
+44,Ireland,IRL,1,3,6,10
+45,Greece,GRE,1,1,3,5
+46,Kuwait,KUW,1,1,1,3
+47,Kenya,KEN,1,1,0,2
+48,Chinese Taipei,TPE,1,0,2,3
+49,Dominican Republic,DOM,1,0,0,1
+49,Peru,PER,1,0,0,1
+50,Israel,ISR,0,4,5,9
+51,Slovenia,SLO,0,2,3,5
+52,Tunisia,TUN,0,2,0,2
+53,Bulgaria,BUL,0,1,1,2
+54,Jordan,JOR,0,1,0,1
+55,Republic of Moldova,MDA,0,0,2,2
+55,Thailand,THA,0,0,2,2
+56,Jamaica,JAM,0,0,1,1
+56,Uruguay,URU,0,0,1,1

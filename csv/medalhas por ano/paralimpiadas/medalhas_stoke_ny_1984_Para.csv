@@ -1,0 +1,44 @@
+﻿Ordem,País,CPN,Ouro,Prata,Bronze,Total
+1,United States of America,USA,137,131,129,397
+2,Great Britain,GBR,107,112,112,331
+3,Canada,CAN,87,82,69,238
+4,Sweden,SWE,83,43,34,160
+5,West Germany,FRG,81,76,75,232
+6,France,FRA,71,69,46,186
+7,Netherlands,NED,55,52,28,135
+8,Australia,AUS,49,54,51,154
+9,Poland,POL,46,39,21,106
+10,Norway,NOR,30,30,30,90
+11,Denmark,DEN,30,13,16,59
+12,Spain,ESP,22,10,12,44
+13,Belgium,BEL,21,23,14,58
+14,Ireland,IRL,20,15,31,66
+15,Finland,FIN,18,14,27,59
+16,Switzerland,SUI,18,13,12,43
+17,Austria,AUT,14,20,10,44
+18,Hungary,HUN,12,13,3,28
+19,Israel,ISR,11,21,12,44
+20,Yugoslavia,YUG,11,10,11,32
+21,Italy,ITA,9,19,14,42
+22,Japan,JPN,9,7,8,24
+23,New Zealand,NZL,8,10,7,25
+24,Brazil,BRA,7,17,4,28
+25,Mexico,MEX,6,14,17,37
+26,Portugal,POR,4,3,7,14
+27,"Hong Kong, China",HKG,3,5,9,17
+28,People's Republic of China,CHN,2,12,8,22
+29,Trinidad and Tobago,TTO,2,0,1,3
+30,Luxembourg,LUX,1,4,1,6
+31,Kuwait,KUW,1,3,4,8
+32,Burma,BIR,1,2,1,4
+33,Egypt,EGY,1,1,5,7
+34,Kenya,KEN,1,1,1,3
+35,East Germany,GDR,0,3,1,4
+36,Iceland,ISL,0,2,8,10
+37,India,IND,0,2,2,4
+37,Republic of Korea,KOR,0,2,2,4
+38,Jordan,JOR,0,1,2,3
+38,Zimbabwe,ZIM,0,1,2,3
+39,Bahamas,BAH,0,1,1,2
+39,Indonesia,INA,0,1,1,2
+40,Bahrain,BRN,0,0,2,2
