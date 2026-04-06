@@ -1,0 +1,53 @@
+﻿Ordem,País,Ouro,Prata,Bronze,Total
+1,URS União Soviética,55,31,46,132
+2,GDR Alemanha Oriental,37,35,30,102
+3,USA Estados Unidos,36,31,27,94
+4,KOR Coreia do Sul,12,10,11,33
+5,FRG Alemanha Ocidental,11,14,15,40
+6,HUN Hungria,11,6,6,23
+7,BUL Bulgária,10,12,13,35
+8,ROM Romênia,7,11,6,24
+9,FRA França,6,4,6,16
+10,ITA Itália,6,4,4,14
+11,CHN China,5,11,12,28
+12,GBR Grã-Bretanha,5,10,9,24
+13,KEN Quênia,5,2,2,9
+14,JPN Japão,4,3,7,14
+15,AUS Austrália,3,6,5,14
+16,YUG Iugoslávia,3,4,5,12
+17,TCH Checoslováquia,3,3,2,8
+18,NZL Nova Zelândia,3,2,8,13
+19,CAN Canadá,3,2,5,9
+20,POL Polônia,2,5,9,16
+21,NOR Noruega,2,3,0,5
+22,NED Países Baixos,2,2,5,9
+23,DEN Dinamarca,2,1,1,4
+24,BRA Brasil,1,2,3,6
+25,ESP Espanha,1,1,2,4
+25,FIN Finlândia,1,1,2,4
+27,TUR Turquia,1,1,0,2
+28,MAR Marrocos,1,0,2,3
+29,AUT Áustria,1,0,0,1
+29,POR Portugal,1,0,0,1
+29,SUR Suriname,1,0,0,1
+32,SWE Suécia,0,4,7,11
+33,SUI Suíça,0,2,2,4
+34,JAM Jamaica,0,2,0,2
+35,ARG Argentina,0,1,1,1
+36,AHO Antilhas Neerlandesas,0,1,0,1
+36,CHI Chile,0,1,0,1
+36,CRC Costa Rica,0,1,0,1
+36,ISV Ilhas Virgens Americanas,0,1,0,1
+36,INA Indonésia,0,1,0,1
+36,IRI Irã,0,1,0,1
+36,PER Peru,0,1,0,1
+36,SEN Senegal,0,1,0,1
+44,BEL Bélgica,0,0,2,2
+44,MEX México,0,0,2,2
+46,COL Colômbia,0,0,1,1
+46,DJI Djibuti,0,0,1,1
+46,PHI Filipinas,0,0,1,1
+46,GRE Grécia,0,0,1,1
+46,MGL Mongólia,0,0,1,1
+46,PAK Paquistão,0,0,1,1
+46,THA Tailândia,0,0,1,1
