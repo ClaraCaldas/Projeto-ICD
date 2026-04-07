@@ -1,0 +1,75 @@
+﻿Ordem,País,Ouro,Prata,Bronze,Total
+1,USA Estados Unidos,36,39,26,101
+2,CHN China,32,17,14,63
+3,RUS Rússia,28,26,36,90
+4,AUS Austrália,17,16,17,50
+5,JPN Japão,16,9,12,37
+6,GER Alemanha,13,16,20,49
+7,FRA França,11,9,13,33
+8,ITA Itália,10,11,11,32
+9,KOR Coreia do Sul,9,12,9,30
+10,GBR Grã-Bretanha,9,9,12,30
+11,CUB Cuba,9,7,11,27
+12,HUN Hungria,8,6,3,17
+13,UKR Ucrânia,8,5,9,22
+14,ROU Romênia,8,5,6,19
+15,GRE Grécia,6,6,4,16
+16,BRA Brasil,5,2,3,10
+17,NOR Noruega,5,0,1,6
+18,NED Países Baixos,4,9,9,22
+19,SWE Suécia,4,2,1,7
+20,ESP Espanha,3,11,6,20
+21,CAN Canadá,3,6,3,12
+22,TUR Turquia,3,3,5,11
+23,POL Polônia,3,2,5,10
+24,NZL Nova Zelândia,3,2,0,5
+25,THA Tailândia,3,1,4,8
+26,BLR Bielorrússia,2,5,6,13
+27,AUT Áustria,2,4,1,7
+28,ETH Etiópia,2,3,2,7
+29,IRI Irã,2,2,2,6
+29,SVK Eslováquia,2,2,2,6
+31,TPE Taipé Chinês,2,2,1,5
+32,GEO Geórgia,2,2,0,4
+33,BUL Bulgária,2,1,9,12
+34,DEN Dinamarca,2,1,5,8
+35,JAM Jamaica,2,1,2,5
+35,UZB Uzbequistão,2,1,2,5
+37,MAR Marrocos,2,1,0,3
+38,ARG Argentina,2,0,4,6
+39,CHI Chile,2,0,1,3
+40,KAZ Cazaquistão,1,4,3,8
+41,KEN Quênia,1,4,2,7
+42,CZE República Checa,1,3,5,9
+43,RSA África do Sul,1,3,2,6
+44,CRO Croácia,1,2,2,5
+45,LTU Lituânia,1,2,0,3
+46,EGY Egito,1,1,3,5
+46,SUI Suíça,1,1,3,5
+48,INA Indonésia,1,1,2,4
+49,ZIM Zimbabwe,1,1,1,3
+50,AZE Azerbaijão,1,0,4,5
+51,BEL Bélgica,1,0,2,3
+52,BAH Bahamas,1,0,1,2
+52,ISR Israel,1,0,1,2
+54,CMR Camarões,1,0,0,1
+54,DOM República Dominicana,1,0,0,1
+54,UAE Emirados Árabes Unidos,1,0,0,1
+57,PRK Coreia do Norte,0,4,1,5
+58,LAT Letônia,0,4,0,4
+59,MEX México,0,3,1,4
+60,POR Portugal,0,2,1,3
+61,FIN Finlândia,0,2,0,2
+61,SCG Sérvia e Montenegro,0,2,0,2
+63,SLO Eslovênia,0,1,3,4
+64,EST Estônia,0,1,2,3
+65,HKG Hong Kong,0,1,0,1
+65,IND Índia,0,1,0,1
+65,PAR Paraguai,0,1,0,1
+68,COL Colômbia,0,0,2,2
+68,NGR Nigéria,0,0,2,2
+68,VEN Venezuela,0,0,2,2
+71,ERI Eritreia,0,0,1,1
+71,MGL Mongólia,0,0,1,1
+71,SYR Síria,0,0,1,1
+71,TRI Trinidad e Tobago,0,0,1,1

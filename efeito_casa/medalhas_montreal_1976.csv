@@ -1,0 +1,42 @@
+﻿Ordem,País,Ouro,Prata,Bronze,Total
+1,URS União Soviética,49,41,35,125
+2,GDR Alemanha Oriental,40,25,25,90
+3,USA Estados Unidos,34,35,25,94
+4,FRG Alemanha Ocidental,10,12,17,39
+5,JPN Japão,9,6,10,25
+6,POL Polônia,7,6,13,26
+7,BUL Bulgária,6,9,7,22
+8,CUB Cuba,6,4,3,13
+9,ROU Romênia,4,9,14,27
+10,HUN Hungria,4,5,13,22
+11,FIN Finlândia,4,2,0,6
+12,SWE Suécia,4,1,0,5
+13,GBR Grã-Bretanha,3,5,5,13
+14,ITA Itália,2,7,4,13
+15,FRA França,2,3,4,9
+16,YUG Iugoslávia,2,3,3,8
+17,TCH Checoslováquia,2,2,4,8
+18,NZL Nova Zelândia,2,1,1,4
+19,KOR Coreia do Sul,1,1,4,6
+20,SUI Suíça,1,1,2,4
+21,JAM Jamaica,1,1,0,2
+21,PRK Coreia do Norte,1,1,0,2
+21,NOR Noruega,1,1,0,2
+24,DEN Dinamarca,1,0,2,3
+25,MEX México,1,0,1,2
+26,TRI Trinidad e Tobago,1,0,0,1
+27,CAN Canadá,0,5,6,11
+28,BEL Bélgica,0,3,3,6
+29,NED Países Baixos,0,2,3,5
+30,POR Portugal,0,2,0,2
+30,ESP Espanha,0,2,0,2
+32,AUS Austrália,0,1,4,5
+33,IRI Irã,0,1,1,2
+34,MGL Mongólia,0,1,0,1
+34,VEN Venezuela,0,1,0,1
+36,BRA Brasil,0,0,2,2
+37,AUT Áustria,0,0,1,1
+37,BER Bermudas,0,0,1,1
+37,PAK Paquistão,0,0,1,1
+37,PUR Porto Rico,0,0,1,1
+37,THA Tailândia,0,0,1,1

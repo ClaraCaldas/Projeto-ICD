@@ -1,0 +1,49 @@
+﻿Ordem,País,Ouro,Prata,Bronze,Total
+1,URS União Soviética,50,27,22,99
+2,USA Estados Unidos,33,31,30,94
+3,GDR Alemanha Oriental,20,23,23,66
+4,FRG Alemanha Ocidental,13,11,16,40
+5,JPN Japão,13,8,8,29
+6,AUS Austrália,8,7,2,17
+7,POL Polônia,7,5,9,21
+8,HUN Hungria,6,13,16,35
+9,BUL Bulgária,6,10,5,21
+10,ITA Itália,5,3,10,18
+11,SWE Suécia,4,6,6,16
+12,GBR Grã-Bretanha,4,5,9,18
+13,ROU Romênia,3,6,7,16
+14,CUB Cuba,3,1,4,8
+14,FIN Finlândia,3,1,4,8
+16,NED Países Baixos,3,1,1,5
+17,FRA França,2,4,7,13
+18,TCH Checoslováquia,2,4,2,8
+19,KEN Quênia,2,3,4,9
+20,YUG Iugoslávia,2,1,2,5
+21,NOR Noruega,2,1,1,4
+22,PRK Coreia do Norte,1,1,3,5
+23,NZL Nova Zelândia,1,1,1,3
+24,UGA Uganda,1,1,0,2
+25,DEN Dinamarca,1,0,0,1
+26,SUI Suíça,0,3,0,3
+27,CAN Canadá,0,2,3,5
+28,IRI Irã,0,2,1,3
+29,BEL Bélgica,0,2,0,2
+29,GRE Grécia,0,2,0,2
+31,AUT Áustria,0,1,2,3
+31,COL Colômbia,0,1,2,3
+33,ARG Argentina,0,1,0,1
+33,KOR Coreia do Sul,0,1,0,1
+33,LIB Líbano,0,1,0,1
+33,MEX México,0,1,0,1
+33,MGL Mongólia,0,1,0,1
+33,PAK Paquistão,0,1,0,1
+33,TUN Tunísia,0,1,0,1
+33,TUR Turquia,0,1,0,1
+41,BRA Brasil,0,0,2,2
+41,ETH Etiópia,0,0,2,2
+43,GHA Gana,0,0,1,1
+43,IND Índia,0,0,1,1
+43,JAM Jamaica,0,0,1,1
+43,NIG Níger,0,0,1,1
+43,NGR Nigéria,0,0,1,1
+43,ESP Espanha,0,0,1,1
