@@ -1,0 +1,130 @@
+País,Ouro,Prata,Bronze,Total,NOC
+Estados Unidos,808,736,739,2283,USA
+Grã-Bretanha,667,621,626,1914,GBR
+Alemanha,521,529,500,1550,GER
+China,535,400,302,1237,CHN
+Austrália,389,422,394,1205,AUS
+França,357,362,373,1092,FRA
+Canadá,400,340,346,1080,CAN
+Países Baixos,301,262,245,808,NED
+Polônia,269,265,220,754,POL
+Espanha,221,237,242,700,ESP
+Itália,181,224,226,665,ITA
+Suécia,235,233,178,646,SWE
+Ucrânia,149,162,161,472,UKR
+Japão,127,139,158,424,JPN
+Israel,129,125,130,384,ISR
+Brasil,109,132,132,373,BRA
+Áustria,113,128,131,372,AUT
+Coreia do Sul,128,126,121,365,KOR
+Noruega,116,105,96,317,NOR
+México,104,92,114,310,MEX
+África do Sul,121,95,88,304,RSA
+Suíça,93,101,102,296,SUI
+Dinamarca,96,83,106,282,DEN
+Finlândia,76,99,104,279,FIN
+Bélgica,88,93,90,271,BEL
+Rússia,91,87,90,268,RUS
+Irlanda,70,68,95,233,IRL
+Nova Zelândia,80,60,61,201,NZL
+Argentina,31,66,69,165,ARG
+Irã,67,48,45,160,IRI
+Hungria,37,55,65,157,HUN
+Egito,49,52,63,150,EGY
+Chéquia,43,44,50,137,CZE
+RPC,36,33,49,116,RPC
+Hong Kong,37,34,44,115,HKG
+Bielorrússia,41,35,31,106,BLR
+Grécia,20,41,44,105,GRE
+Portugal,25,31,38,104,POR
+Tunísia,43,39,22,94,TUN
+Cuba,43,20,29,92,CUB
+Tailândia,24,29,34,87,THA
+Argélia,27,22,36,85,ALG
+Nigéria,39,20,21,80,NGR
+Eslováquia,24,21,25,70,SVK
+Iugoslávia,18,22,30,70,YUG
+Islândia,14,13,34,61,ISL
+Azerbaijão,23,19,15,57,AZE
+União Soviética,21,19,15,55,URS
+Jamaica,21,16,18,54,JAM
+Rodésia,21,18,15,54,RHO
+Uzbequistão,16,12,23,51,UZB
+Equipa Unificada,20,15,16,51,EUN
+Quênia,18,16,14,48,KEN
+Colômbia,6,15,26,47,COL
+Kuwait,10,16,19,45,KUW
+Marrocos,16,11,11,39,MAR
+Turquia,8,10,20,38,TUR
+Lituânia,6,12,18,36,LTU
+Índia,9,12,10,31,IND
+Romênia,11,9,9,29,ROU
+Indonésia,6,7,14,27,INA
+Croácia,5,8,13,26,CRO
+Venezuela,4,7,13,24,VEN
+Taipé Chinesa,5,6,14,23,TPE
+Sérvia,7,10,5,22,SRB
+Eslovênia,4,9,8,21,SLO
+Letônia,5,7,8,20,LAT
+Estônia,4,8,7,19,EST
+Emirados Árabes Unidos,4,10,5,19,UAE
+Zimbabwe,2,9,6,17,ZIM
+Checoslováquia,4,5,8,17,TCH
+Iraque,3,7,6,16,IRQ
+Jordânia,5,6,5,16,JOR
+Malásia,6,4,6,16,MAS
+Uruguai,5,4,6,15,URU
+Bulgária,5,9,3,15,BUL
+Ilhas Faroé,1,7,5,13,FRO
+Singapura,5,2,4,11,SIN
+Barém,2,3,5,10,BRN
+Namíbia,2,4,4,10,NAM
+República Dominicana,3,6,1,10,DOM
+Malta,0,2,6,9,MLT
+Peru,4,1,4,9,PER
+Angola,4,3,1,8,ANG
+Chipre,3,3,2,8,CYP
+Panamá,3,4,1,8,PAN
+Participantes Paralímpicos Independentes,4,3,1,8,IPP
+Cazaquistão,2,4,1,7,KAZ
+Chile,3,3,1,7,CHI
+Luxemburgo,1,4,2,7,LUX
+Porto Rico,1,2,4,7,PUR
+Mianmar,2,3,2,7,MYA
+Trinidad e Tobago,3,1,2,6,TTO
+Bósnia e Herzegovina,2,3,1,6,BIH
+Vietnã,1,2,2,5,VIE
+Arábia Saudita,1,2,2,5,KSA
+Bahamas,0,2,3,5,BAH
+Geórgia,1,3,0,4,GEO
+Sri Lanka,1,0,3,4,SRI
+Costa do Marfim,3,1,1,4,CIV
+Catar,0,2,1,3,QAT
+Equador,1,0,2,3,ECU
+Etiópia,1,2,0,3,ETH
+Paquistão,1,1,1,3,PAK
+Palestina,0,1,2,3,PLE
+Moldávia,0,0,2,2,MDA
+Mongólia,2,0,2,2,MGL
+Líbano,0,0,2,2,LBN
+Sérvia e Montenegro,0,0,2,2,SCG
+Uganda,0,1,1,2,UGA
+Guatemala,1,0,1,2,GUA
+Filipinas,0,0,2,2,PHI
+Costa Rica,1,1,0,2,CRC
+Macedônia do Norte,1,1,0,2,MKD
+Montenegro,0,0,1,1,MNE
+El Salvador,0,0,1,1,ESA
+Cabo Verde,0,0,1,1,CPV
+Botsuana,1,0,0,1,BOT
+Fiji,1,0,0,1,FIJ
+Laos,0,0,1,1,LAO
+Líbia,0,0,1,1,LBA
+Ruanda,0,0,1,1,RWA
+Papua-Nova Guiné,0,1,0,1,PNG
+Moçambique,0,0,1,1,MOZ
+Omã,0,0,1,1,OMA
+Sudão,1,0,0,1,SUD
+Síria,0,0,1,1,SYR
+Atletas Paralímpicos Neutros,0,0,0,0,NPA
+Liechtenstein,0,0,0,0,LIE
